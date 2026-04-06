@@ -1,7 +1,3 @@
-"""
-COMMANDO Networks — Production-Grade Website Crawler (FINAL CLEAN)
-"""
-
 import os
 import json
 import time
