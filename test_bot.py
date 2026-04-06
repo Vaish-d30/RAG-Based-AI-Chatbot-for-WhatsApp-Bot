@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-test_bot.py — Test the COMMANDO RAG chatbot locally in your terminal.
-No WhatsApp setup needed. Great for development and demos.
-
-Usage:
-    python test_bot.py
-    python test_bot.py --user alice
-    python test_bot.py --model gemini-1.5-pro
-"""
-
 import argparse
 import logging
 import os
