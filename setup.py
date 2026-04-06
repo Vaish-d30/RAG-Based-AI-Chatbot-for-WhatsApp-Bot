@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-setup.py — COMMANDO Networks RAG Bot — Full Clean Pipeline
-"""
-
 import os
 import sys
 import shutil
